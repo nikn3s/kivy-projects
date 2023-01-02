@@ -20,3 +20,6 @@ The features i want to implement are: Display, Remove and Edit previously added 
   - 27/12/2022 -
 I managed to implement display_users() function which as the name suggests displays users from users.txt.
 Errors: Initially, the names were displayed on the screen, in the left bottom corner, which wasn't my intention. After I edited it, it completely stopped displaying the users. So I must work on that, and then learn UIX in kivy.
+
+# Clicker Game
+I started making this on NYE, but I ran into an error. The click() function which purpose is to display the number of clicks, didn't work. I asked ChatGBT about the Error I've ran into, and it gave it a suggesting that I perhaps should modify that function. 

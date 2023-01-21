@@ -11,8 +11,11 @@ I will be updating this accordingly.
  > Label
  > TextInput
 
-Layouts:
+*Layouts:*
 > To create a layout inside another layout, new layout instance has to be created inside the layout block
+
+Kivy Language:
+> It facilitates writing code by providing a more user-friendly and less sophisticated syntax
 # client_add_system-project
 -----------------------------------------
 I attempted to implement a system which simply adds person's name to a seperate file.

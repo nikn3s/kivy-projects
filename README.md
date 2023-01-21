@@ -1,16 +1,18 @@
 # learning-kivy 
 ----------------------------------------
 I will be updating this accordingly.
-Main Layouts:
+*Main Layouts:*
 > GridLayout
 > FloatLayout
 > BoxLayout
 
-Main Objects:
+*Main Objects:*
  > Button
  > Label
  > TextInput
 
+Layouts:
+> To create a layout inside another layout, new layout instance has to be created inside the layout block
 # client_add_system-project
 -----------------------------------------
 I attempted to implement a system which simply adds person's name to a seperate file.
